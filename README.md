@@ -5,7 +5,7 @@ Ce projet implémente un modèle de classification de sentiment pour analyser le
 
 ## 🎯 Objectifs
 - Classifier automatiquement le sentiment des critiques de films
-- Démonstrater l'utilisation de Transformers pour le NLP
+- Démontrer l'utilisation de Transformers pour le NLP
 - Fournir une solution efficace avec des performances élevées
 
 ## 🏗️ Architecture du Modèle
